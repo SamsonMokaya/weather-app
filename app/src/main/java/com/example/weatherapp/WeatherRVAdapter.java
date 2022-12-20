@@ -35,7 +35,7 @@ public class WeatherRVAdapter extends RecyclerView.Adapter<WeatherRVAdapter.View
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
 
-       // Picasso.get().load();
+        Picasso.get().load();
     }
 
     @Override
